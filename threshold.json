@@ -1,0 +1,6 @@
+{
+  "threshold": 0.32,
+  "chosen_model": "rf",
+  "validation_pr_auc": 0.8212195934133266,
+  "test_ap": 0.8279801485566907
+}
